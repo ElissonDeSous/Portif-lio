@@ -7,3 +7,16 @@ ul {
   justify-content: space-around;
   
 }
+h2{
+  font-family: fantasy;
+
+                                                
+}
+p{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 18px;
+}
+body{
+  background-color:rgb(0, 0, 0) ;
+  color: white;
+}
